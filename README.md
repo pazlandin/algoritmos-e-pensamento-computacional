@@ -8,6 +8,9 @@ Exercícios em linguagem C da disciplina **Algoritmos e Pensamento Computacional
 | [exercicio-02-revestimento-da-loja](exercicio-02-revestimento-da-loja) | Exercício 2 – Revestimento da loja | Variáveis, operadores e `math.h` |
 | [exercicio-03-tipo-de-hospedagem](exercicio-03-tipo-de-hospedagem) | Exercício 3 – Tipo de Hospedagem | `if/else` e `switch` |
 | [exercicio-04-tabuada](exercicio-04-tabuada) | Exercício 4 – Tabuada | Laço `for` |
+| [exercicio-05-nota-alunos](exercicio-05-nota-alunos) | Exercício 5 – Nota Alunos | `do...while`, `break` e loops de consistência |
+| [exercicio-06-matriz](exercicio-06-matriz) | Exercício 6 – Matriz | Vetores e matrizes |
+| [exercicio-07-consulta-tabuada](exercicio-07-consulta-tabuada) | Exercício 7 – Consulta_Tabuada | Manipulação de arquivos (`fopen`, `fprintf`, `fgets`, `fscanf`) |
 | [exercicio-08-bubblesort](exercicio-08-bubblesort) | Exercício 8 – BubbleSort | Bubble Sort, Selection Sort e Insertion Sort |
 
 ## Como compilar e executar
